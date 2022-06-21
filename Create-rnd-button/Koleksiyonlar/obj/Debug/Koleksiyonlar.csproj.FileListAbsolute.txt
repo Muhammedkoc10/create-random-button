@@ -1,0 +1,10 @@
+C:\Users\muham\source\repos\Koleksiyonlar-2.0\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe.config
+C:\Users\muham\source\repos\Koleksiyonlar-2.0\Koleksiyonlar\bin\Debug\Koleksiyonlar.exe
+C:\Users\muham\source\repos\Koleksiyonlar-2.0\Koleksiyonlar\bin\Debug\Koleksiyonlar.pdb
+C:\Users\muham\source\repos\Koleksiyonlar-2.0\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\Koleksiyonlar-2.0\Koleksiyonlar\obj\Debug\Koleksiyonlar.Form1.resources
+C:\Users\muham\source\repos\Koleksiyonlar-2.0\Koleksiyonlar\obj\Debug\Koleksiyonlar.Properties.Resources.resources
+C:\Users\muham\source\repos\Koleksiyonlar-2.0\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\Koleksiyonlar-2.0\Koleksiyonlar\obj\Debug\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Koleksiyonlar-2.0\Koleksiyonlar\obj\Debug\Koleksiyonlar.exe
+C:\Users\muham\source\repos\Koleksiyonlar-2.0\Koleksiyonlar\obj\Debug\Koleksiyonlar.pdb
